@@ -1,3 +1,0 @@
-from ubuntu
-run echo "test"
-cmd echo "test1"
